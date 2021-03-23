@@ -1,0 +1,79 @@
+body {
+    background-image: url('images/art-background4.jpg');
+    background-size: cover;
+}
+
+.topBox {
+    color: white;
+    font-family: Merriweather; 
+    background-color: rgb(33, 33, 33, 0.5);
+    border: 10rem;
+    padding: 3rem;
+    margin: 20px;
+    width: 30rem;
+    box-shadow: 5px 10px rgb(33, 33, 33, 0.75);
+
+
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+.midbox {
+    color: black;
+    background-color: rgb(255, 255, 255, 0.5);
+    border: 10rem;
+    padding: 3rem;
+    margin: 20px;
+    width: 30rem;
+    box-shadow: 5px 10px rgb(33, 33, 33, 0.75);
+
+
+}
+
+.midbox-light {
+    background-color: rgb(224, 224, 224, 0.5);
+    border: 20rem;
+    padding: 1rem;
+    margin: 20px;
+    width: 34rem;
+    margin: 20px;
+    font-size: 24px;
+
+
+}
+
+#announcement {
+    font-size: 15px;
+    font-weight: bold;
+}
+.midbox-dark {
+    color: white;
+    background-color: rgb(66, 66, 66, 0.5);
+    padding: 1rem;
+    font-size: 24px;
+}
+
+#footnote {
+    color: red;
+    font-size: 12px;
+}
+
+.lower-box {
+    color: white;
+    font-family: Merriweather; 
+    background-color: rgb(33, 33, 33, 0.5);
+    padding: 3rem;
+    margin: 20px;
+    width: 30rem;
+    box-shadow: 5px 10px rgb(33, 33, 33, 0.75);
+}
+
+img {
+    border: 5px solid gray;
+  }
